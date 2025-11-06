@@ -1,0 +1,1381 @@
+[
+  {
+    "label_idx": 0,
+    "label_name": "adipose",
+    "synonym": "adipose",
+    "family": "concise",
+    "template": "{label}"
+  },
+  {
+    "label_idx": 0,
+    "label_name": "adipose",
+    "synonym": "adipose",
+    "family": "clinical",
+    "template": "Histology: {label}"
+  },
+  {
+    "label_idx": 0,
+    "label_name": "adipose",
+    "synonym": "adipose",
+    "family": "clinical",
+    "template": "Microscopic image showing {label}"
+  },
+  {
+    "label_idx": 0,
+    "label_name": "adipose",
+    "synonym": "adipose",
+    "family": "clinical",
+    "template": "H&E stained slide: {label}"
+  },
+  {
+    "label_idx": 0,
+    "label_name": "adipose",
+    "synonym": "adipose",
+    "family": "descriptive",
+    "template": "Photomicrograph of {label} with hematoxylin and eosin staining"
+  },
+  {
+    "label_idx": 0,
+    "label_name": "adipose",
+    "synonym": "adipose",
+    "family": "descriptive",
+    "template": "High-resolution histology of {label} tissue"
+  },
+  {
+    "label_idx": 0,
+    "label_name": "adipose",
+    "synonym": "adipose",
+    "family": "with_modifier",
+    "template": "{label} -- tumor region"
+  },
+  {
+    "label_idx": 0,
+    "label_name": "adipose",
+    "synonym": "adipose",
+    "family": "with_modifier",
+    "template": "{label} with inflammatory cells"
+  },
+  {
+    "label_idx": 0,
+    "label_name": "adipose",
+    "synonym": "adipose",
+    "family": "with_modifier",
+    "template": "{label} (H&E)"
+  },
+  {
+    "label_idx": 0,
+    "label_name": "adipose",
+    "synonym": "adipose",
+    "family": "disease_vs_normal",
+    "template": "normal {label}"
+  },
+  {
+    "label_idx": 0,
+    "label_name": "adipose",
+    "synonym": "adipose",
+    "family": "disease_vs_normal",
+    "template": "abnormal {label}"
+  },
+  {
+    "label_idx": 0,
+    "label_name": "adipose",
+    "synonym": "adipose",
+    "family": "disease_vs_normal",
+    "template": "tumor {label}"
+  },
+  {
+    "label_idx": 1,
+    "label_name": "background",
+    "synonym": "background",
+    "family": "concise",
+    "template": "{label}"
+  },
+  {
+    "label_idx": 1,
+    "label_name": "background",
+    "synonym": "background",
+    "family": "clinical",
+    "template": "Histology: {label}"
+  },
+  {
+    "label_idx": 1,
+    "label_name": "background",
+    "synonym": "background",
+    "family": "clinical",
+    "template": "Microscopic image showing {label}"
+  },
+  {
+    "label_idx": 1,
+    "label_name": "background",
+    "synonym": "background",
+    "family": "clinical",
+    "template": "H&E stained slide: {label}"
+  },
+  {
+    "label_idx": 1,
+    "label_name": "background",
+    "synonym": "background",
+    "family": "descriptive",
+    "template": "Photomicrograph of {label} with hematoxylin and eosin staining"
+  },
+  {
+    "label_idx": 1,
+    "label_name": "background",
+    "synonym": "background",
+    "family": "descriptive",
+    "template": "High-resolution histology of {label} tissue"
+  },
+  {
+    "label_idx": 1,
+    "label_name": "background",
+    "synonym": "background",
+    "family": "with_modifier",
+    "template": "{label} -- tumor region"
+  },
+  {
+    "label_idx": 1,
+    "label_name": "background",
+    "synonym": "background",
+    "family": "with_modifier",
+    "template": "{label} with inflammatory cells"
+  },
+  {
+    "label_idx": 1,
+    "label_name": "background",
+    "synonym": "background",
+    "family": "with_modifier",
+    "template": "{label} (H&E)"
+  },
+  {
+    "label_idx": 1,
+    "label_name": "background",
+    "synonym": "background",
+    "family": "disease_vs_normal",
+    "template": "normal {label}"
+  },
+  {
+    "label_idx": 1,
+    "label_name": "background",
+    "synonym": "background",
+    "family": "disease_vs_normal",
+    "template": "abnormal {label}"
+  },
+  {
+    "label_idx": 1,
+    "label_name": "background",
+    "synonym": "background",
+    "family": "disease_vs_normal",
+    "template": "tumor {label}"
+  },
+  {
+    "label_idx": 2,
+    "label_name": "debris",
+    "synonym": "debris",
+    "family": "concise",
+    "template": "{label}"
+  },
+  {
+    "label_idx": 2,
+    "label_name": "debris",
+    "synonym": "debris",
+    "family": "clinical",
+    "template": "Histology: {label}"
+  },
+  {
+    "label_idx": 2,
+    "label_name": "debris",
+    "synonym": "debris",
+    "family": "clinical",
+    "template": "Microscopic image showing {label}"
+  },
+  {
+    "label_idx": 2,
+    "label_name": "debris",
+    "synonym": "debris",
+    "family": "clinical",
+    "template": "H&E stained slide: {label}"
+  },
+  {
+    "label_idx": 2,
+    "label_name": "debris",
+    "synonym": "debris",
+    "family": "descriptive",
+    "template": "Photomicrograph of {label} with hematoxylin and eosin staining"
+  },
+  {
+    "label_idx": 2,
+    "label_name": "debris",
+    "synonym": "debris",
+    "family": "descriptive",
+    "template": "High-resolution histology of {label} tissue"
+  },
+  {
+    "label_idx": 2,
+    "label_name": "debris",
+    "synonym": "debris",
+    "family": "with_modifier",
+    "template": "{label} -- tumor region"
+  },
+  {
+    "label_idx": 2,
+    "label_name": "debris",
+    "synonym": "debris",
+    "family": "with_modifier",
+    "template": "{label} with inflammatory cells"
+  },
+  {
+    "label_idx": 2,
+    "label_name": "debris",
+    "synonym": "debris",
+    "family": "with_modifier",
+    "template": "{label} (H&E)"
+  },
+  {
+    "label_idx": 2,
+    "label_name": "debris",
+    "synonym": "debris",
+    "family": "disease_vs_normal",
+    "template": "normal {label}"
+  },
+  {
+    "label_idx": 2,
+    "label_name": "debris",
+    "synonym": "debris",
+    "family": "disease_vs_normal",
+    "template": "abnormal {label}"
+  },
+  {
+    "label_idx": 2,
+    "label_name": "debris",
+    "synonym": "debris",
+    "family": "disease_vs_normal",
+    "template": "tumor {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytes",
+    "family": "concise",
+    "template": "{label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytes",
+    "family": "clinical",
+    "template": "Histology: {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytes",
+    "family": "clinical",
+    "template": "Microscopic image showing {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytes",
+    "family": "clinical",
+    "template": "H&E stained slide: {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytes",
+    "family": "descriptive",
+    "template": "Photomicrograph of {label} with hematoxylin and eosin staining"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytes",
+    "family": "descriptive",
+    "template": "High-resolution histology of {label} tissue"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytes",
+    "family": "with_modifier",
+    "template": "{label} -- tumor region"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytes",
+    "family": "with_modifier",
+    "template": "{label} with inflammatory cells"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytes",
+    "family": "with_modifier",
+    "template": "{label} (H&E)"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytes",
+    "family": "disease_vs_normal",
+    "template": "normal {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytes",
+    "family": "disease_vs_normal",
+    "template": "abnormal {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytes",
+    "family": "disease_vs_normal",
+    "template": "tumor {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "immune cells",
+    "family": "concise",
+    "template": "{label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "immune cells",
+    "family": "clinical",
+    "template": "Histology: {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "immune cells",
+    "family": "clinical",
+    "template": "Microscopic image showing {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "immune cells",
+    "family": "clinical",
+    "template": "H&E stained slide: {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "immune cells",
+    "family": "descriptive",
+    "template": "Photomicrograph of {label} with hematoxylin and eosin staining"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "immune cells",
+    "family": "descriptive",
+    "template": "High-resolution histology of {label} tissue"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "immune cells",
+    "family": "with_modifier",
+    "template": "{label} -- tumor region"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "immune cells",
+    "family": "with_modifier",
+    "template": "{label} with inflammatory cells"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "immune cells",
+    "family": "with_modifier",
+    "template": "{label} (H&E)"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "immune cells",
+    "family": "disease_vs_normal",
+    "template": "normal {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "immune cells",
+    "family": "disease_vs_normal",
+    "template": "abnormal {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "immune cells",
+    "family": "disease_vs_normal",
+    "template": "tumor {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytic infiltrate",
+    "family": "concise",
+    "template": "{label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytic infiltrate",
+    "family": "clinical",
+    "template": "Histology: {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytic infiltrate",
+    "family": "clinical",
+    "template": "Microscopic image showing {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytic infiltrate",
+    "family": "clinical",
+    "template": "H&E stained slide: {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytic infiltrate",
+    "family": "descriptive",
+    "template": "Photomicrograph of {label} with hematoxylin and eosin staining"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytic infiltrate",
+    "family": "descriptive",
+    "template": "High-resolution histology of {label} tissue"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytic infiltrate",
+    "family": "with_modifier",
+    "template": "{label} -- tumor region"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytic infiltrate",
+    "family": "with_modifier",
+    "template": "{label} with inflammatory cells"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytic infiltrate",
+    "family": "with_modifier",
+    "template": "{label} (H&E)"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytic infiltrate",
+    "family": "disease_vs_normal",
+    "template": "normal {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytic infiltrate",
+    "family": "disease_vs_normal",
+    "template": "abnormal {label}"
+  },
+  {
+    "label_idx": 3,
+    "label_name": "lymphocytes",
+    "synonym": "lymphocytic infiltrate",
+    "family": "disease_vs_normal",
+    "template": "tumor {label}"
+  },
+  {
+    "label_idx": 4,
+    "label_name": "mucus",
+    "synonym": "mucus",
+    "family": "concise",
+    "template": "{label}"
+  },
+  {
+    "label_idx": 4,
+    "label_name": "mucus",
+    "synonym": "mucus",
+    "family": "clinical",
+    "template": "Histology: {label}"
+  },
+  {
+    "label_idx": 4,
+    "label_name": "mucus",
+    "synonym": "mucus",
+    "family": "clinical",
+    "template": "Microscopic image showing {label}"
+  },
+  {
+    "label_idx": 4,
+    "label_name": "mucus",
+    "synonym": "mucus",
+    "family": "clinical",
+    "template": "H&E stained slide: {label}"
+  },
+  {
+    "label_idx": 4,
+    "label_name": "mucus",
+    "synonym": "mucus",
+    "family": "descriptive",
+    "template": "Photomicrograph of {label} with hematoxylin and eosin staining"
+  },
+  {
+    "label_idx": 4,
+    "label_name": "mucus",
+    "synonym": "mucus",
+    "family": "descriptive",
+    "template": "High-resolution histology of {label} tissue"
+  },
+  {
+    "label_idx": 4,
+    "label_name": "mucus",
+    "synonym": "mucus",
+    "family": "with_modifier",
+    "template": "{label} -- tumor region"
+  },
+  {
+    "label_idx": 4,
+    "label_name": "mucus",
+    "synonym": "mucus",
+    "family": "with_modifier",
+    "template": "{label} with inflammatory cells"
+  },
+  {
+    "label_idx": 4,
+    "label_name": "mucus",
+    "synonym": "mucus",
+    "family": "with_modifier",
+    "template": "{label} (H&E)"
+  },
+  {
+    "label_idx": 4,
+    "label_name": "mucus",
+    "synonym": "mucus",
+    "family": "disease_vs_normal",
+    "template": "normal {label}"
+  },
+  {
+    "label_idx": 4,
+    "label_name": "mucus",
+    "synonym": "mucus",
+    "family": "disease_vs_normal",
+    "template": "abnormal {label}"
+  },
+  {
+    "label_idx": 4,
+    "label_name": "mucus",
+    "synonym": "mucus",
+    "family": "disease_vs_normal",
+    "template": "tumor {label}"
+  },
+  {
+    "label_idx": 5,
+    "label_name": "smooth_muscle",
+    "synonym": "smooth_muscle",
+    "family": "concise",
+    "template": "{label}"
+  },
+  {
+    "label_idx": 5,
+    "label_name": "smooth_muscle",
+    "synonym": "smooth_muscle",
+    "family": "clinical",
+    "template": "Histology: {label}"
+  },
+  {
+    "label_idx": 5,
+    "label_name": "smooth_muscle",
+    "synonym": "smooth_muscle",
+    "family": "clinical",
+    "template": "Microscopic image showing {label}"
+  },
+  {
+    "label_idx": 5,
+    "label_name": "smooth_muscle",
+    "synonym": "smooth_muscle",
+    "family": "clinical",
+    "template": "H&E stained slide: {label}"
+  },
+  {
+    "label_idx": 5,
+    "label_name": "smooth_muscle",
+    "synonym": "smooth_muscle",
+    "family": "descriptive",
+    "template": "Photomicrograph of {label} with hematoxylin and eosin staining"
+  },
+  {
+    "label_idx": 5,
+    "label_name": "smooth_muscle",
+    "synonym": "smooth_muscle",
+    "family": "descriptive",
+    "template": "High-resolution histology of {label} tissue"
+  },
+  {
+    "label_idx": 5,
+    "label_name": "smooth_muscle",
+    "synonym": "smooth_muscle",
+    "family": "with_modifier",
+    "template": "{label} -- tumor region"
+  },
+  {
+    "label_idx": 5,
+    "label_name": "smooth_muscle",
+    "synonym": "smooth_muscle",
+    "family": "with_modifier",
+    "template": "{label} with inflammatory cells"
+  },
+  {
+    "label_idx": 5,
+    "label_name": "smooth_muscle",
+    "synonym": "smooth_muscle",
+    "family": "with_modifier",
+    "template": "{label} (H&E)"
+  },
+  {
+    "label_idx": 5,
+    "label_name": "smooth_muscle",
+    "synonym": "smooth_muscle",
+    "family": "disease_vs_normal",
+    "template": "normal {label}"
+  },
+  {
+    "label_idx": 5,
+    "label_name": "smooth_muscle",
+    "synonym": "smooth_muscle",
+    "family": "disease_vs_normal",
+    "template": "abnormal {label}"
+  },
+  {
+    "label_idx": 5,
+    "label_name": "smooth_muscle",
+    "synonym": "smooth_muscle",
+    "family": "disease_vs_normal",
+    "template": "tumor {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon mucosa",
+    "family": "concise",
+    "template": "{label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon mucosa",
+    "family": "clinical",
+    "template": "Histology: {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon mucosa",
+    "family": "clinical",
+    "template": "Microscopic image showing {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon mucosa",
+    "family": "clinical",
+    "template": "H&E stained slide: {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon mucosa",
+    "family": "descriptive",
+    "template": "Photomicrograph of {label} with hematoxylin and eosin staining"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon mucosa",
+    "family": "descriptive",
+    "template": "High-resolution histology of {label} tissue"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon mucosa",
+    "family": "with_modifier",
+    "template": "{label} -- tumor region"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon mucosa",
+    "family": "with_modifier",
+    "template": "{label} with inflammatory cells"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon mucosa",
+    "family": "with_modifier",
+    "template": "{label} (H&E)"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon mucosa",
+    "family": "disease_vs_normal",
+    "template": "normal {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon mucosa",
+    "family": "disease_vs_normal",
+    "template": "abnormal {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon mucosa",
+    "family": "disease_vs_normal",
+    "template": "tumor {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "healthy colon mucosa",
+    "family": "concise",
+    "template": "{label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "healthy colon mucosa",
+    "family": "clinical",
+    "template": "Histology: {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "healthy colon mucosa",
+    "family": "clinical",
+    "template": "Microscopic image showing {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "healthy colon mucosa",
+    "family": "clinical",
+    "template": "H&E stained slide: {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "healthy colon mucosa",
+    "family": "descriptive",
+    "template": "Photomicrograph of {label} with hematoxylin and eosin staining"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "healthy colon mucosa",
+    "family": "descriptive",
+    "template": "High-resolution histology of {label} tissue"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "healthy colon mucosa",
+    "family": "with_modifier",
+    "template": "{label} -- tumor region"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "healthy colon mucosa",
+    "family": "with_modifier",
+    "template": "{label} with inflammatory cells"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "healthy colon mucosa",
+    "family": "with_modifier",
+    "template": "{label} (H&E)"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "healthy colon mucosa",
+    "family": "disease_vs_normal",
+    "template": "normal {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "healthy colon mucosa",
+    "family": "disease_vs_normal",
+    "template": "abnormal {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "healthy colon mucosa",
+    "family": "disease_vs_normal",
+    "template": "tumor {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon tissue",
+    "family": "concise",
+    "template": "{label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon tissue",
+    "family": "clinical",
+    "template": "Histology: {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon tissue",
+    "family": "clinical",
+    "template": "Microscopic image showing {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon tissue",
+    "family": "clinical",
+    "template": "H&E stained slide: {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon tissue",
+    "family": "descriptive",
+    "template": "Photomicrograph of {label} with hematoxylin and eosin staining"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon tissue",
+    "family": "descriptive",
+    "template": "High-resolution histology of {label} tissue"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon tissue",
+    "family": "with_modifier",
+    "template": "{label} -- tumor region"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon tissue",
+    "family": "with_modifier",
+    "template": "{label} with inflammatory cells"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon tissue",
+    "family": "with_modifier",
+    "template": "{label} (H&E)"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon tissue",
+    "family": "disease_vs_normal",
+    "template": "normal {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon tissue",
+    "family": "disease_vs_normal",
+    "template": "abnormal {label}"
+  },
+  {
+    "label_idx": 6,
+    "label_name": "normal_colon_mucosa",
+    "synonym": "normal colon tissue",
+    "family": "disease_vs_normal",
+    "template": "tumor {label}"
+  },
+  {
+    "label_idx": 7,
+    "label_name": "cancer_associated_stroma",
+    "synonym": "cancer_associated_stroma",
+    "family": "concise",
+    "template": "{label}"
+  },
+  {
+    "label_idx": 7,
+    "label_name": "cancer_associated_stroma",
+    "synonym": "cancer_associated_stroma",
+    "family": "clinical",
+    "template": "Histology: {label}"
+  },
+  {
+    "label_idx": 7,
+    "label_name": "cancer_associated_stroma",
+    "synonym": "cancer_associated_stroma",
+    "family": "clinical",
+    "template": "Microscopic image showing {label}"
+  },
+  {
+    "label_idx": 7,
+    "label_name": "cancer_associated_stroma",
+    "synonym": "cancer_associated_stroma",
+    "family": "clinical",
+    "template": "H&E stained slide: {label}"
+  },
+  {
+    "label_idx": 7,
+    "label_name": "cancer_associated_stroma",
+    "synonym": "cancer_associated_stroma",
+    "family": "descriptive",
+    "template": "Photomicrograph of {label} with hematoxylin and eosin staining"
+  },
+  {
+    "label_idx": 7,
+    "label_name": "cancer_associated_stroma",
+    "synonym": "cancer_associated_stroma",
+    "family": "descriptive",
+    "template": "High-resolution histology of {label} tissue"
+  },
+  {
+    "label_idx": 7,
+    "label_name": "cancer_associated_stroma",
+    "synonym": "cancer_associated_stroma",
+    "family": "with_modifier",
+    "template": "{label} -- tumor region"
+  },
+  {
+    "label_idx": 7,
+    "label_name": "cancer_associated_stroma",
+    "synonym": "cancer_associated_stroma",
+    "family": "with_modifier",
+    "template": "{label} with inflammatory cells"
+  },
+  {
+    "label_idx": 7,
+    "label_name": "cancer_associated_stroma",
+    "synonym": "cancer_associated_stroma",
+    "family": "with_modifier",
+    "template": "{label} (H&E)"
+  },
+  {
+    "label_idx": 7,
+    "label_name": "cancer_associated_stroma",
+    "synonym": "cancer_associated_stroma",
+    "family": "disease_vs_normal",
+    "template": "normal {label}"
+  },
+  {
+    "label_idx": 7,
+    "label_name": "cancer_associated_stroma",
+    "synonym": "cancer_associated_stroma",
+    "family": "disease_vs_normal",
+    "template": "abnormal {label}"
+  },
+  {
+    "label_idx": 7,
+    "label_name": "cancer_associated_stroma",
+    "synonym": "cancer_associated_stroma",
+    "family": "disease_vs_normal",
+    "template": "tumor {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colorectal adenocarcinoma",
+    "family": "concise",
+    "template": "{label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colorectal adenocarcinoma",
+    "family": "clinical",
+    "template": "Histology: {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colorectal adenocarcinoma",
+    "family": "clinical",
+    "template": "Microscopic image showing {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colorectal adenocarcinoma",
+    "family": "clinical",
+    "template": "H&E stained slide: {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colorectal adenocarcinoma",
+    "family": "descriptive",
+    "template": "Photomicrograph of {label} with hematoxylin and eosin staining"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colorectal adenocarcinoma",
+    "family": "descriptive",
+    "template": "High-resolution histology of {label} tissue"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colorectal adenocarcinoma",
+    "family": "with_modifier",
+    "template": "{label} -- tumor region"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colorectal adenocarcinoma",
+    "family": "with_modifier",
+    "template": "{label} with inflammatory cells"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colorectal adenocarcinoma",
+    "family": "with_modifier",
+    "template": "{label} (H&E)"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colorectal adenocarcinoma",
+    "family": "disease_vs_normal",
+    "template": "normal {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colorectal adenocarcinoma",
+    "family": "disease_vs_normal",
+    "template": "abnormal {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colorectal adenocarcinoma",
+    "family": "disease_vs_normal",
+    "template": "tumor {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon adenocarcinoma",
+    "family": "concise",
+    "template": "{label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon adenocarcinoma",
+    "family": "clinical",
+    "template": "Histology: {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon adenocarcinoma",
+    "family": "clinical",
+    "template": "Microscopic image showing {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon adenocarcinoma",
+    "family": "clinical",
+    "template": "H&E stained slide: {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon adenocarcinoma",
+    "family": "descriptive",
+    "template": "Photomicrograph of {label} with hematoxylin and eosin staining"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon adenocarcinoma",
+    "family": "descriptive",
+    "template": "High-resolution histology of {label} tissue"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon adenocarcinoma",
+    "family": "with_modifier",
+    "template": "{label} -- tumor region"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon adenocarcinoma",
+    "family": "with_modifier",
+    "template": "{label} with inflammatory cells"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon adenocarcinoma",
+    "family": "with_modifier",
+    "template": "{label} (H&E)"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon adenocarcinoma",
+    "family": "disease_vs_normal",
+    "template": "normal {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon adenocarcinoma",
+    "family": "disease_vs_normal",
+    "template": "abnormal {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon adenocarcinoma",
+    "family": "disease_vs_normal",
+    "template": "tumor {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colonic adenocarcinoma",
+    "family": "concise",
+    "template": "{label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colonic adenocarcinoma",
+    "family": "clinical",
+    "template": "Histology: {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colonic adenocarcinoma",
+    "family": "clinical",
+    "template": "Microscopic image showing {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colonic adenocarcinoma",
+    "family": "clinical",
+    "template": "H&E stained slide: {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colonic adenocarcinoma",
+    "family": "descriptive",
+    "template": "Photomicrograph of {label} with hematoxylin and eosin staining"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colonic adenocarcinoma",
+    "family": "descriptive",
+    "template": "High-resolution histology of {label} tissue"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colonic adenocarcinoma",
+    "family": "with_modifier",
+    "template": "{label} -- tumor region"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colonic adenocarcinoma",
+    "family": "with_modifier",
+    "template": "{label} with inflammatory cells"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colonic adenocarcinoma",
+    "family": "with_modifier",
+    "template": "{label} (H&E)"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colonic adenocarcinoma",
+    "family": "disease_vs_normal",
+    "template": "normal {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colonic adenocarcinoma",
+    "family": "disease_vs_normal",
+    "template": "abnormal {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colonic adenocarcinoma",
+    "family": "disease_vs_normal",
+    "template": "tumor {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon cancer",
+    "family": "concise",
+    "template": "{label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon cancer",
+    "family": "clinical",
+    "template": "Histology: {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon cancer",
+    "family": "clinical",
+    "template": "Microscopic image showing {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon cancer",
+    "family": "clinical",
+    "template": "H&E stained slide: {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon cancer",
+    "family": "descriptive",
+    "template": "Photomicrograph of {label} with hematoxylin and eosin staining"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon cancer",
+    "family": "descriptive",
+    "template": "High-resolution histology of {label} tissue"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon cancer",
+    "family": "with_modifier",
+    "template": "{label} -- tumor region"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon cancer",
+    "family": "with_modifier",
+    "template": "{label} with inflammatory cells"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon cancer",
+    "family": "with_modifier",
+    "template": "{label} (H&E)"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon cancer",
+    "family": "disease_vs_normal",
+    "template": "normal {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon cancer",
+    "family": "disease_vs_normal",
+    "template": "abnormal {label}"
+  },
+  {
+    "label_idx": 8,
+    "label_name": "colorectal_adenocarcinoma",
+    "synonym": "colon cancer",
+    "family": "disease_vs_normal",
+    "template": "tumor {label}"
+  },
+  {
+    "label_idx": null,
+    "label_name": null,
+    "synonym": "tumor cells",
+    "family": "adversarial",
+    "template": "tumor cells"
+  },
+  {
+    "label_idx": null,
+    "label_name": null,
+    "synonym": "glandular structures",
+    "family": "adversarial",
+    "template": "glandular structures"
+  },
+  {
+    "label_idx": null,
+    "label_name": null,
+    "synonym": "mucosal tissue",
+    "family": "adversarial",
+    "template": "mucosal tissue"
+  },
+  {
+    "label_idx": null,
+    "label_name": null,
+    "synonym": "fat cells",
+    "family": "adversarial",
+    "template": "fat cells"
+  },
+  {
+    "label_idx": null,
+    "label_name": null,
+    "synonym": "background noise",
+    "family": "adversarial",
+    "template": "background noise"
+  }
+]

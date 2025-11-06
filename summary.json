@@ -1,0 +1,12 @@
+{
+  "num_images": 1000,
+  "num_prompts": 197,
+  "top_k": 5,
+  "family_precision": {
+    "concise": 0.3375,
+    "clinical": 0.32083333333333336,
+    "descriptive": 0.28125,
+    "with_modifier": 0.3083333333333333,
+    "disease_vs_normal": 0.3083333333333333
+  }
+}
