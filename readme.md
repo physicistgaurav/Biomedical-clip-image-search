@@ -43,9 +43,8 @@ Prompts are grouped into **five main families**:
 ![Mean Precision@5 by Prompt Family](family_comparison.png)
 
 **Interpretation:**  
-- **Higher mean Precision@5** indicates the prompts retrieve more relevant images in the top 5 results.  
-- In this experiment, **concise prompts slightly outperform others**, but differences are generally small.  
-- This suggests that even simple prompts are effective with CLIP models for histology retrieval.
+- Accuracy remained consistently between 30-40% regardless of prompt complexity, clinical terminology, or descriptive detail.
+- Detailed in my Blog: (to be added)
 
 ---
 **How to run:**  
@@ -55,4 +54,4 @@ For prompt evaluation experimentation, use clip_promptE.ipynb
 **Note:**
 - Using larger CLIP models (e.g., ViT-L-14) improves retrieval performance but requires high GPU memory and may take a long time on free Google Colab.
 
-= This setup uses clip-ViT-B-32 for a balance between speed and accuracy.
+- This setup uses clip-ViT-B-16 for a balance between speed and accuracy.
